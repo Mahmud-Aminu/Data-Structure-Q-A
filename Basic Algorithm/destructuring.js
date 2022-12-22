@@ -1,4 +1,4 @@
-const user = {
+# const user = {
   name: "Mahmud",
   age: 27,
   phone_number: "+23481300000",
@@ -7,7 +7,7 @@ const user = {
 
 // How you to pass object properties as parameters using destructuring.
 const aboutMe = ({name, age, nationality, phone_number}) => {
-  return `Hello, My name is ${name}, I am ${age} years old. \n${nationality} is my country and you can reach me with ${phone_number}.`
+  return `Hello, I go by the name ${name}, I am ${age} years old. \n${nationality} is my country and you can reach me with ${phone_number}.`
 }
 
 aboutMe(user)
