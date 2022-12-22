@@ -11,7 +11,7 @@ function is_String(input){
     }
 }
 
-// is_String()
+is_String()
 
 // Write  function to check if a string is blank or not
 function is_blank(input){
