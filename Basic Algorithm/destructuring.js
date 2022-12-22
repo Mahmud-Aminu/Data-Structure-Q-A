@@ -1,7 +1,7 @@
 const user = {
   name: "Mahmud",
   age: 27,
-  phone_number: "+2348130000000",
+  phone_number: "+23481300000",
   nationality: "Nigeria"
 }
 
